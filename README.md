@@ -1,17 +1,17 @@
-## 👋 Hi, I’m @hyChia88
+# 👋 Hi, I’m @hyChia88
 **Computational Designer | Software Engineer | Maker**
 *Master’s Student in Computational Design @ Carnegie Mellon University*
 *Architectural Background | Technical Expertise | Creative Problem-Solving*
 
-### 🔍 About Me
+## 🔍 About Me
 I’m passionate about merging design and technology to create innovative solutions. With a foundation in architecture from Tsinghua University and a focus on computational workflows, I specialize in digital fabrication, automation systems, and generative design. My unique blend of design thinking and technical skills allows me to turn complex ideas into functional, real-world applications.
 
-### 🛠️ Skills
+## 🛠️ Skills
 Programming: Python, C++, Java
 Tools: Rhino, Grasshopper, SketchUp, Adobe Suite
 Expertise: Digital fabrication, automation, 3D printing, generative design
 
-### 🌟 Featured Projects
+## 🌟 Featured Projects
 **🚀 Automated Weaving System**
 
 Reduced installation time by 33% for digital fabrication projects.
