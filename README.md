@@ -9,7 +9,7 @@ I’m passionate about merging design and technology to create innovative soluti
 ## 🛠️ Skills  
 Programming: Python, C++, Java  
 Frameworks & Tools: Adobe Creative Suite, Blender, Arduino, AutoCAD, Rhinoceros 3D, Grasshopper 3D, Kangaroo
-Expertise: Digital fabrication, automation, 3D printing, Computational Design, 3D Modeling
+Expertise: Digital fabrication, automation, 3D printing, Computational Design, 3D Modeling  
 Languages: English, Chinese, Malay, Cantonese
 
 ## 🌟 Featured Projects  
