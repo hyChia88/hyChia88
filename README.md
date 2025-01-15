@@ -1,21 +1,23 @@
 # 👋 Hi, I’m @hyChia88
 **Computational Designer | Software Engineer | Maker**  
-*Master’s Student in Computational Design @ Carnegie Mellon University*  
+*M.S. in Computational Design @ Carnegie Mellon University*  
 *Architectural Background | Technical Expertise | Creative Problem-Solving*  
 
 ## 🔍 About Me  
-I’m passionate about merging design and technology to create innovative solutions. With a foundation in architecture from Tsinghua University and a focus on computational workflows, I specialize in digital fabrication, automation systems, and generative design. My unique blend of design thinking and technical skills allows me to turn complex ideas into functional, real-world applications.
+I’m passionate about merging design and technology to create innovative solutions. With a background of studying computation method in CMU and in a foundation in architectural design from Tsinghua University and a focus on computational workflows, I specialize in digital fabrication, automation systems, and generative design. My unique blend of design thinking and technical skills allows me to turn complex ideas into functional, real-world applications.
 
 ## 🛠️ Skills  
 Programming: Python, C++, Java  
-Tools: Rhino, Grasshopper, SketchUp, Adobe Suite  
-Expertise: Digital fabrication, automation, 3D printing, generative design  
+Frameworks & Tools: Adobe Creative Suite, Blender, Arduino, AutoCAD, Rhinoceros 3D, Grasshopper 3D, Kangaroo
+Expertise: Digital fabrication, automation, 3D printing, Computational Design, 3D Modeling
+Languages: English, Chinese, Malay, Cantonese
 
 ## 🌟 Featured Projects  
 **🚀 Automated Weaving System**  
 
 Reduced installation time by 33% for digital fabrication projects.  
-Developed C++ serial communication for automation machines (motors, controllers).  
+Explored human-centred design approaches and advanced automated systems development, including Python-based optimization algorithms and automation machines for complex digital fabrication installations.  
+Developed a C++ program to control and manage serial communication between electronic components (Inkjet Printhead Controller, Arduino, stepper motors, encoders, etc.) and built an automated rod labeling machine from scratch, reducing installation time by over 33% in real-world weaving structure installation.    
 Engineered Python pipelines to transform 2D structures into complex 3D forms.  
 
 <!---
