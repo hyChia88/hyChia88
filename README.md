@@ -15,10 +15,10 @@ Languages: English, Chinese, Malay, Cantonese
 ## 🌟 Featured Projects  
 **🚀 Automated Weaving System**  
 
-Reduced installation time by 33% for digital fabrication projects.  
-Explored human-centred design approaches and advanced automated systems development, including Python-based optimization algorithms and automation machines for complex digital fabrication installations.  
-Developed a C++ program to control and manage serial communication between electronic components (Inkjet Printhead Controller, Arduino, stepper motors, encoders, etc.) and built an automated rod labeling machine from scratch, reducing installation time by over 33% in real-world weaving structure installation.    
-Engineered Python pipelines to transform 2D structures into complex 3D forms.  
+- Reduced installation time by 33% for digital fabrication projects.  
+- Explored human-centred design approaches and advanced automated systems development, including Python-based optimization algorithms and automation machines for complex digital fabrication installations.  
+- Developed a C++ program to control and manage serial communication between electronic components and built an automated rod labeling machine to support installation.    
+- Engineered Python pipelines to transform 2D structures into complex 3D forms.  
 
 <!---
 hyChia88/hyChia88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
