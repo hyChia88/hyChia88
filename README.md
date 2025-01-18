@@ -19,8 +19,15 @@ Languages: English, Chinese, Malay, Cantonese
 - Explored human-centred design approaches and advanced automated systems development, including Python-based optimization algorithms and automation machines for complex digital fabrication installations.  
 - Developed a C++ program to control and manage serial communication between electronic components and built an automated rod labeling machine to support installation.    
 - Engineered Python pipelines to transform 2D structures into complex 3D forms.  
+  
+  
+**🔮 SenseBridge: Motion-Aware Communication**
 
-<!---
-hyChia88/hyChia88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Created motion-tracking system that enhances virtual communication through non-verbal cues
+- Related tech stack: Kinect-Grasshopper-Rhino3D integration, Python, OpenCV, CMU-Graphics library
+  
+  
+**🎯 Build-By-Motion**
+
+- Built real-time motion guidance system for construction assembly processes
+- related tech stack: Python, OpenCV, Catmull-Clark subdivision algorithms, CMU-Graphics library
