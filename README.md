@@ -29,5 +29,5 @@ Languages: English, Chinese, Malay, Cantonese
   
 **🎯 Build-By-Motion**
 
-- Built real-time motion guidance system for construction assembly processes
+- Developed 3D modeling and rendering capabilities using a custom 2D front-end system, building geometry from fundamental elements like points, lines, and planes; implemented advanced techniques such as Catmull-Clark subdivision for smooth surface generation。
 - related tech stack: Python, OpenCV, Catmull-Clark subdivision algorithms, CMU-Graphics library
