@@ -13,7 +13,7 @@ Expertise: Digital fabrication, automation, 3D printing, Computational Design, 3
 Languages: English, Chinese, Malay, Cantonese
 
 ## 🌟 Featured Projects  
-**🚀 Automated Weaving Structure Installation System**  
+**🚀 Weaving Structure Installation Optimization System**  
 
 - Reduced installation time by 33% for digital fabrication projects.  
 - Explored human-centred design approaches and advanced automated systems development, including Python-based optimization algorithms and automation machines for complex digital fabrication installations.  
