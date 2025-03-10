@@ -4,30 +4,11 @@
 *Architectural Background | Technical Expertise | Creative Problem-Solving*  
 
 ## 🔍 About Me  
-I’m passionate about merging design and technology to create innovative solutions. With a background of studying computation method in CMU and in a foundation in architectural design from Tsinghua University and a focus on computational workflows, I specialize in digital fabrication, automation systems, and generative design. My unique blend of design thinking and technical skills allows me to turn complex ideas into functional, real-world applications.
-
-## 🛠️ Skills  
-Programming: Python, C++, Java  
-Frameworks & Tools: Adobe Creative Suite, Blender, Arduino, AutoCAD, Rhinoceros 3D, Grasshopper 3D, Kangaroo
-Expertise: Digital fabrication, automation, 3D printing, Computational Design, 3D Modeling  
-Languages: English, Chinese, Malay, Cantonese
-
-## 🌟 Featured Projects  
-**🚀 Weaving Structure Installation Optimization System**  
-
-- Reduced installation time by 33% for digital fabrication projects.  
-- Explored human-centred design approaches and advanced automated systems development, including Python-based optimization algorithms and automation machines for complex digital fabrication installations.  
-- Developed a C++ program to control and manage serial communication between electronic components and built an automated rod labeling machine to support installation.    
-- Engineered Python pipelines to transform 2D structures into complex 3D forms.  
+I love optimizing workflows and solving complex design challenges. In my fourth year at Tsinghua University, I joined Professor Huang Weixin's research group, where I worked on digital fabrication and automation, enhancing the efficiency of customized structures. My role spanned design optimization, digital fabrication, and workflow automation, focusing on streamlining complex processes. <a href="https://hychia88.github.io/"> Project ↗ </a>  
   
-  
-**🔮 SenseBridge: Motion-Aware Communication**
+Currently, I am pursuing an M.S. in Computational Design at Carnegie Mellon University, exploring the intersection of software engineering, AI, and automation to integrate cutting-edge technology into design. <a href="https://hychia88.github.io/cs-projects.html">Courses taken ↗</a>
+Beyond that, I worked as Architectural Robotics Research Assistant under Professor Joshua Bard at CMU, contributed research in 3D printing, and worked as an Architectural Intern at MAD Architects, specializing in generative modeling. More of my work can be found in my portfolio below.
 
-- Created motion-tracking system that enhances virtual communication through non-verbal cues
-- Related tech stack: Kinect-Grasshopper-Rhino3D integration, Python, OpenCV, CMU-Graphics library
-  
-  
-**🎯 Build-By-Motion**
-
-- Developed 3D modeling and rendering capabilities using a custom 2D front-end system, building geometry from fundamental elements like points, lines, and planes; implemented advanced techniques such as Catmull-Clark subdivision for smooth surface generation。
-- related tech stack: Python, OpenCV, Catmull-Clark subdivision algorithms, CMU-Graphics library
+<a href="http://hyChia88.github.io/cv.pdf"> CV </a>
+<a href="https://linkedin.com/in/huiyen-chia"> LinkedIn </a>
+<a href="https://hychia88.github.io/"> Portfolio Page </a>
